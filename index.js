@@ -2,8 +2,11 @@
 
 
 function calculate() {
-    document.getElementById('borrowing')
-    document.getElementById('salary')
+    var borrowAmount =
+    document.getElementById('borrowing').value;
+    var salaryAmount =
+    document.getElementById('salary').value;
+    //come up with a bit of code that can make the calculation
 
 
 
