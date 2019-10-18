@@ -10,23 +10,32 @@ function calculate() {
     var monthReturn =
         document.getElementById('monthReturn').value;
     //come up with a bit of code that can make the calculation
-    let
 
-    //Come up with equations/code that will add the 5% fee automatically.
+}
 
-
-    //Come up with equations/code that will add the interest on automatically if it is over 80%/90%
 
 
     //pass the calculated score out of this function
-
-
+      let result = Math.round ( 'borrowing' / 'monthReturn' + 400))
+       if {
+           'borrowing'>6400
+           'borrowing' + 500
+           console.log ()
+       } else {
+           'borrowing'>7200
+           'borrowing' + 1000
+         console.log()
 }
+
+
 
 //output data to the front end.
 
 
+//Come up with equations/code that will add the 5% fee automatically.
 
+
+//Come up with equations/code that will add the interest on automatically if it is over 80%/90%
 
 
 
