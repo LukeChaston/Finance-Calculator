@@ -2,19 +2,26 @@
 
 
 function calculate() {
+    //Get the ID's from the user input.
     var borrowAmount =
     document.getElementById('borrowing').value;
     var salaryAmount =
     document.getElementById('salary').value;
+    var monthReturn =
+        document.getElementById('monthReturn').value;
     //come up with a bit of code that can make the calculation
+    let
 
+    //Come up with equations/code that will add the 5% fee automatically.
+
+
+    //Come up with equations/code that will add the interest on automatically if it is over 80%/90%
+
+
+    //pass the calculated score out of this function
 
 
 }
-
-
-
-
 
 //output data to the front end.
 
